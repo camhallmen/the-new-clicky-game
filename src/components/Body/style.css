@@ -1,0 +1,19 @@
+body {
+    background-image: url("images/grass-background.svg");
+    background-size: cover;
+}
+
+.score {
+    text-align: center;
+}
+
+.reset {
+    margin-left: 47%;
+    margin-right: 45%;
+}
+
+.images {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 250px;
+}
